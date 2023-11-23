@@ -9,4 +9,4 @@ Some of these include:
 - Call of Duty Warzone
 
 These have approached this genre in different ways with varying results all with success. For this project, I'm going to be using Jupyter notebooks and SQL for importation, cleaning and analysing the data from this 
-webpage that tracks player counts per month (Here)[https://activeplayer.io/]
+webpage that tracks player counts per month [Here](https://activeplayer.io/)
