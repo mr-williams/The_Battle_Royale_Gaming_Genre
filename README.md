@@ -7,6 +7,7 @@ Some of these include:
 - Apex Legends
 - Player Unknown BattleGround
 - Call of Duty Warzone
+- Overwatch 2
 
 These have approached this genre in different ways with varying results all with success. For this project, I'm going to be using Jupyter notebooks for importation, cleaning and analysing the data from this 
 webpage that tracks player counts per month [Here](https://activeplayer.io/) Furthermore Power BI would be used to present the visuals of said analysis.
